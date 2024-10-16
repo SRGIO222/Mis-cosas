@@ -1,0 +1,4 @@
+table, th, td {
+    display: flex;
+    border: solid ;
+}
